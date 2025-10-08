@@ -1,4 +1,4 @@
-<h1>Hi there 👋, my name is Valeriy<br>I am a Middle FullStack QA Automation Engineer</h1>
+<h1>Hi there 👋, my name is Valeriy<br>I am a Senior FullStack QA Automation Engineer</h1>
 
 <h2>⚙️ Languages & Technologies I Code With</h2>
 
